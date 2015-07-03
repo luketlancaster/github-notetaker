@@ -10,7 +10,7 @@ var Profile = React.createClass({
   mixins: [Router.State, ReactFireMixin],
   getInitialState: function() {
     return {
-      notes: ['note1', 'note2'],
+      notes: [],
       bio: {name: 'Luke'},
       repos: [1,2,3]
     }

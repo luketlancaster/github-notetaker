@@ -1,0 +1,9 @@
+{
+  "firebase": "react-and-git-note",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
